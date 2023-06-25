@@ -1,0 +1,72 @@
+.heading {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.itemCount {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.hr {
+  margin-bottom: 10px;
+}
+.cartEmpty {
+  font-size: 20px;
+  margin: 40px 0;
+  text-align: center;
+}
+.useCoupon {
+  margin-bottom: 10px;
+}
+.useCouponCode {
+  color: #40c057;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.total {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.price {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.discountDIv {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.originalPrice {
+  font-size: 18px;
+  color: #aaa;
+  text-decoration: line-through;
+}
+.discountPer {
+  font-size: 18px;
+  color: #40c057;
+  margin-bottom: 20px;
+}
+.addCouponDiv {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+.couponCode {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.couponName {
+  color: #40c057;
+  text-transform: uppercase;
+}
+.input {
+  font-size: 14px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
